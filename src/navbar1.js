@@ -4,31 +4,31 @@ const navbar1 = ()=>{
     return(
         <div id="full">
         <nav>
-           <a href="#">NEWS</a>
+           <a href="#N">NEWS</a>
            <p>|</p>
-           <a href="#"> REAL ESTATES</a>
+           <a href="#n"> REAL ESTATES</a>
            <p>|</p>
-           <a href="#"> HOTELS</a>
+           <a href="#n"> HOTELS</a>
            <p>|</p>
-           <a href="#"> CLASSIFIED</a>
+           <a href="#n"> CLASSIFIED</a>
            <p>|</p>
-           <a href="#"> TRAVEL</a>
+           <a href="#n"> TRAVEL</a>
            <p>|</p>
-           <a href="#"> STUDY</a>
+           <a href="#n"> STUDY</a>
            <p>|</p>
-           <a href="#"> JOBS</a>
+           <a href="#n"> JOBS</a>
            <p>|</p>
-           <a href="#"> HEALTH</a>
-           <a href="#" id="covid">Covid-19</a>
+           <a href="#n"> HEALTH</a>
+           <a href="#n" id="covid">Covid-19</a>
         </nav>
         <div id="right">
             <div className="tog">
             <img src="email (1).png"alt="yo"></img>
-            <a href="#">Newsletter Signup</a>
+            <a href="#N">Newsletter Signup</a>
             </div>
             <div className="tog">
             <img src="marker.png"alt="yo"></img>
-            <a href="#">Register/Login</a>
+            <a href="#N">Register/Login</a>
             </div>
         </div>
         </div>
