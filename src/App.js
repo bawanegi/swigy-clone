@@ -1,12 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
+import React  from "react";
 
-function App() {
-  return (
-    <div>
-    <h1>hello guys</h1>
-    </div>
-  );
+
+const app=()=>{
+return(
+    <>
+
+    </>
+)
 }
 
-export default App;
+export default app;
